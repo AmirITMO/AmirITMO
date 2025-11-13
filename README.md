@@ -19,7 +19,7 @@
 ### 🛠️ Мой стек технологий:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,git,docker&theme=dark" style="height:40px; margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=c,python,railway,git,docker&theme=dark" style="height:40px; margin:5px;" />
   <a href="https://n8n.io/" target="_blank" rel="noreferrer">
     <img src="https://cp.beget.com/shared/EXlbmo7zStLYxXYd6yFrM714qZj8LMkI/logo_n8n2x.png" alt="n8n" style="height:40px; margin:5px;" />
   </a>
